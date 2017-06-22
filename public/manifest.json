@@ -1,0 +1,10 @@
+{
+  "name": "Star System",
+  "short_name": "Star System",
+  "scope": "./",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#000000",
+  "background_color": "#000000"
+}

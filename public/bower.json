@@ -1,0 +1,21 @@
+{
+  "name": "starsystem",
+  "authors": [
+    "enlightenmentor <fales.tom.1994@gmail.com>"
+  ],
+  "description": "Star system build with p5",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "material-design-lite": "^1.3.0"
+  }
+}
